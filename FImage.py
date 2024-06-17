@@ -5,7 +5,7 @@ from PIL import Image, ImageTk, ImageEnhance, ImageFilter, ImageOps
 class ImageEditor:
     def __init__(self, root):
         self.root = root
-        self.root.title("Image Editor")
+        self.root.title("FotoFlex")
         self.root.geometry("1000x800")
         self.root.config(bg='white')
 
