@@ -1,1 +1,1 @@
-# My-Projects
+# Image Editor Application
